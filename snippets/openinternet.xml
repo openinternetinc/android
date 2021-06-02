@@ -4,5 +4,6 @@
 
   <project path="packages/apps/Wireguard" name="openinternetinc/android_packages_apps_Wireguard" groups="pdk-fs" revision="master" />
   <project path="packages/apps/DuckDuckGo" name="openinternetinc/android_packages_apps_DuckDuckGo" groups="pdk-fs" revision="master" />
+  <project path="packages/apps/F-driod" name="openinternetinc/android_packages_apps_F-driod" groups="pdk-fs" revision="master" />
 
 </manifest>
