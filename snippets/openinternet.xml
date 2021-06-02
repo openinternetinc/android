@@ -1,0 +1,8 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="packages/apps/Wireguard" name="openinternetinc/android_packages_apps_Wireguard" groups="pdk-fs" revision="master" />
+  <project path="packages/apps/DuckDuckGo" name="openinternetinc/android_packages_apps_DuckDuckGo" groups="pdk-fs" revision="master" />
+
+</manifest>
